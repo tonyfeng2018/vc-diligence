@@ -127,4 +127,6 @@ vc-research 是一款顶级VC投研助手，帮助投资人和分析师系统性
 
 ---
 
-*vc-research — 让每一次尽调都像顶级VC一样专业。*
+*Last updated: 2026-04-02*  
+*Author: Tony F*  
+*Email: tongfweb3@gmail.com*
