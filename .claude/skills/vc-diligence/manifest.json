@@ -1,0 +1,23 @@
+{
+  "name": "vc-diligence",
+  "version": "v3.3",
+  "description": "顶级早期VC投研助手 — 系统性完成项目尽调",
+  "triggers": [
+    "项目分析",
+    "值得投吗",
+    "赛道分析",
+    "尽调",
+    "帮我分析"
+  ],
+  "category": "vc-diligence",
+  "author": "Tony F",
+  "license": "MIT",
+  "features": [
+    "7维阶段自适应框架",
+    "带权重评分表",
+    "Red Flags分级",
+    "Mermaid竞品矩阵",
+    "Pitch Deck摘要",
+    "数据可信度评分"
+  ]
+}
