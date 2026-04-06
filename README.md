@@ -1,6 +1,10 @@
 # 🚀 vc-diligence — 顶级VC投研分析框架
 
 > **阶段自适应投资尽调AI Skill，帮助VC/天使系统性分析项目并识别Red Flags**
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Version](https://img.shields.io/badge/Version-v3.3-blue.svg)](./CHANGELOG.md)
+[![联动项目](https://img.shields.io/badge/→%20startup--idea%20想法验证-yellow.svg)](https://github.com/tonyf2018/startup-idea)
 >
 > ⚡ 适用阶段：天使 / 种子 / A轮 / B轮+ / 二级市场股票
 
@@ -11,6 +15,16 @@
 **"像红杉、高瓴的分析师一样，给任何项目做一份专业的投资Memo"**
 
 > 🔗 **联动提示**：先用 [startup-idea](https://github.com/tonyf2018/startup-idea) 完成想法验证，再接入本项目做深度尽调。
+
+> ⚡ **startup-idea + vc-diligence = 完整的项目评估流水线**
+
+```
+startup-idea  →  验证"该不该做"
+        ↓ 发现想法可行
+vc-diligence →  验证"值不值得投"
+        ↓ 发现值得投
+→ 深入尽调 + 创始人接触 + 条款谈判 + 投资决策
+```
 > ```
 > startup-idea  →  验证"该不该做"
 > vc-diligence  →  验证"值不值得投"
