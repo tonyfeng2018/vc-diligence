@@ -127,7 +127,11 @@ def build_report_template(project: str, stage: str) -> str:
 
 ---
 
-**本报告生成时间**：{today} | **版本**：{VERSION}
+**本报告生成时间：2026-04-06 | 版本：VERSION
+---
+**Last updated**: 2026-04-06
+**Author**: Tony F
+**Email**: tongfweb3@gmail.com
 """
     return template
 
