@@ -222,3 +222,9 @@ MIT License — 欢迎自由使用、修改和分发。
 ---
 
 *vc-diligence v3.3 | 2026-04-06 | [startup-idea联动](https://github.com/tonyf2018/startup-idea)*
+
+---
+
+**Last updated**: 2026-04-06
+**Author**: Tony F
+**Email**: tongfweb3@gmail.com

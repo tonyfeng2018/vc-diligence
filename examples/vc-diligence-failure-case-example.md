@@ -152,3 +152,8 @@
 ---
 
 **本报告为教学示例 | vc-diligence v3.3 | 2026-04-06**
+
+---
+**Last updated**: 2026-04-06
+**Author**: Tony F  
+**Email**: tongfweb3@gmail.com

@@ -578,3 +578,10 @@ vc-diligence：验证"值不值得投"
 → 深入尽调 + 创始人接触 + 条款谈判
 ```
 
+
+
+---
+
+**Last updated**: 2026-04-06
+**Author**: Tony F
+**Email**: tongfweb3@gmail.com
