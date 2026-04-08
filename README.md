@@ -4,7 +4,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Version](https://img.shields.io/badge/Version-v3.3-blue.svg)](./CHANGELOG.md)
-[![联动项目](https://img.shields.io/badge/→%20startup--idea%20想法验证-yellow.svg)](https://github.com/tonyf2018/startup-idea)
+[![联动项目](https://img.shields.io/badge/→%20startup--idea%20想法验证-yellow.svg)](https://github.com/tonyfeng2018/startup-idea)
 >
 > ⚡ 适用阶段：天使 / 种子 / A轮 / B轮+ / 二级市场股票
 
@@ -14,7 +14,7 @@
 
 **"像红杉、高瓴的分析师一样，给任何项目做一份专业的投资Memo"**
 
-> 🔗 **联动提示**：先用 [startup-idea]([https://github.com/tonyf2018/startup-idea](https://github.com/tonyfeng2018/startup-idea)) 完成想法验证，再接入本项目做深度尽调。
+> 🔗 **联动提示**：先用 [startup-idea]([https://github.com/tonyfeng2018/startup-idea]) 完成想法验证，再接入本项目做深度尽调。
 
 > ⚡ **startup-idea + vc-diligence = 完整的项目评估流水线**
 
@@ -214,7 +214,7 @@ streamlit run app/streamlit_app.py
 | Skill文件 | `.claude/skills/vc-diligence/SKILL.md` |
 | 示例报告 | `examples/` |
 | 用户指南 | `docs/USER_GUIDE.md` |
-| startup-idea（联动） | [github.com/tonyf2018/startup-idea](https://github.com/tonyf2018/startup-idea) |
+| startup-idea（联动） | [https://github.com/tonyfeng2018/startup-idea] |
 
 ---
 
@@ -235,7 +235,7 @@ MIT License — 欢迎自由使用、修改和分发。
 
 ---
 
-*vc-diligence v3.3 | 2026-04-06 | [startup-idea联动]([https://github.com/tonyf2018/startup-idea](https://github.com/tonyfeng2018/startup-idea))*
+*vc-diligence v3.3 | 2026-04-06 | [startup-idea联动]([https://github.com/tonyfeng2018/startup-idea])*
 
 ---
 
